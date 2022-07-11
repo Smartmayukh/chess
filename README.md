@@ -1,7 +1,13 @@
-# GitHub README Chess Tournament
+# GitHub README Chess Tournament hosted by Mayukhmali Das
 
-This is an open chess tournament where ANYONE can play. That's the fun part.  
-It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece.
+
+Pick a move 
+
+<p align="left">
+  <img alig src="https://user-images.githubusercontent.com/64318469/178287047-a60ff43c-ec3c-46c6-b1e8-cef49915f075.gif"  />
+</p>
+
+Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece.
 
 <!-- BEGIN CHESS BOARD -->
 |   | A | B | C | D | E | F | G | H |   |
@@ -17,7 +23,8 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece.
 |   | **A** | **B** | **C** | **D** | **E** | **F** | **G** | **H** |   |
 <!-- END CHESS BOARD -->
 
-**It's your turn to move! Choose one from the following table**
+**Choose one from the following table**
+
 <!-- BEGIN MOVES LIST -->
 |  FROM  | TO (Just click a link!) |
 | :----: | :---------------------- |
