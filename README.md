@@ -26,7 +26,7 @@ Move a <!-- BEGIN TURN -->black<!-- END TURN --> piece.
 **Choose one from the following table**
 
 <!-- BEGIN MOVES LIST -->
-|  FROM  | TO (Just click a link!) |
+|  FROM  | TO  |
 | :----: | :---------------------- |
 | **A7** | [A5](https://github.com/Smartmayukh/chess/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+A7+to+A5), [A6](https://github.com/Smartmayukh/chess/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+A7+to+A6) |
 | **B7** | [B5](https://github.com/Smartmayukh/chess/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+B7+to+B5), [B6](https://github.com/Smartmayukh/chess/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+B7+to+B6) |
@@ -44,7 +44,7 @@ Move a <!-- BEGIN TURN -->black<!-- END TURN --> piece.
 
 
 <details>
-  <summary>Last 5 moves in this game</summary>
+  <summary>Last 5 moves made in this game</summary>
 <!-- BEGIN LAST MOVES -->
 
 | Move | Author |
