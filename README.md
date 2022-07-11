@@ -33,13 +33,7 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece.
 | **H2** | [H3](https://github.com/Smartmayukh/chess/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+H2+to+H3), [H4](https://github.com/Smartmayukh/chess/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+H2+to+H4) |
 <!-- END MOVES LIST -->
 
-Having fun? Ask a friend to do the next move!
 
-#### How it works
-
-When you click on a link and submit a new issue with the desired move, a GitHub action is triggered, which in turn runs a small python script that performs the specified movement, updates this README file and commits the changes.
-
-Have you spotted a bug? Something missing? Feel free to open an [issue](https://github.com/marcizhu/readme-chess/issues) and I will try to fix it as soon as possible :D
 
 
 <details>
@@ -65,4 +59,3 @@ Have you spotted a bug? Something missing? Feel free to open an [issue](https://
 
 ---
 
-Do you want to make your own? Check out [marcizhu/readme-chess](https://github.com/marcizhu/readme-chess)!
