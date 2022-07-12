@@ -26,7 +26,7 @@
 |   | **A** | **B** | **C** | **D** | **E** | **F** | **G** | **H** |   |
 <!-- END CHESS BOARD -->
 
-<a href="#"><img align="left" src="https://user-images.githubusercontent.com/64318469/178405927-b44d01f0-e772-4edc-9ca9-f4a5ead6f2d9.gif" width="450" height="450" /></a>
+<a href="#"><img align="left" src="https://user-images.githubusercontent.com/64318469/178405927-b44d01f0-e772-4edc-9ca9-f4a5ead6f2d9.gif" width="405" height="405" /></a>
 
 <!-- BEGIN MOVES LIST -->
 |  FROM  | TO  |
@@ -43,6 +43,6 @@
 | **H7** | [H5](https://github.com/Smartmayukh/chess/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+H7+to+H5), [H6](https://github.com/Smartmayukh/chess/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+H7+to+H6) |
 <!-- END MOVES LIST -->
 
-
+# Immortal Game, 1851
 
 
