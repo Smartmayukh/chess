@@ -1,12 +1,15 @@
-# GitHub README Chess Tournament hosted by Mayukhmali Das
+# Chess Tournament Free For All
 
 
-Pick a move 
 
 <p align="left">
-  <img alig src="https://user-images.githubusercontent.com/64318469/178287047-a60ff43c-ec3c-46c6-b1e8-cef49915f075.gif"  />
+  <img alig src="https://user-images.githubusercontent.com/64318469/178287047-a60ff43c-ec3c-46c6-b1e8-cef49915f075.gif"  width="204" height="150"/>
+  <img src="https://user-images.githubusercontent.com/64318469/178401890-dae670c8-ee71-4a8f-9059-b43ab0ee640f.gif" width="204" height="150"/>
+  <img src="https://user-images.githubusercontent.com/64318469/178404813-ab85727a-e3c9-4771-a3aa-10c865a775d0.gif" width="204"  height="150"/>
+<img src="https://user-images.githubusercontent.com/64318469/178404309-e3666d86-9cf4-4914-9bac-6396eb902cfa.gif" width="204"  height="150"/>
 </p>
 
+### ♟ **Move a <!-- BEGIN TURN -->black<!-- END TURN --> piece.**
 
 
 <!-- BEGIN CHESS BOARD -->
@@ -23,7 +26,6 @@ Pick a move
 |   | **A** | **B** | **C** | **D** | **E** | **F** | **G** | **H** |   |
 <!-- END CHESS BOARD -->
 
-**Move a <!-- BEGIN TURN -->black<!-- END TURN --> piece.**
 
 <!-- BEGIN MOVES LIST -->
 |  FROM  | TO  |
