@@ -7,7 +7,7 @@ Pick a move
   <img alig src="https://user-images.githubusercontent.com/64318469/178287047-a60ff43c-ec3c-46c6-b1e8-cef49915f075.gif"  />
 </p>
 
-Move a <!-- BEGIN TURN -->black<!-- END TURN --> piece.
+
 
 <!-- BEGIN CHESS BOARD -->
 |   | A | B | C | D | E | F | G | H |   |
@@ -23,7 +23,7 @@ Move a <!-- BEGIN TURN -->black<!-- END TURN --> piece.
 |   | **A** | **B** | **C** | **D** | **E** | **F** | **G** | **H** |   |
 <!-- END CHESS BOARD -->
 
-**Choose one from the following table**
+**Move a <!-- BEGIN TURN -->black<!-- END TURN --> piece.**
 
 <!-- BEGIN MOVES LIST -->
 |  FROM  | TO  |
