@@ -3,10 +3,10 @@
 
 
 <p align="left">
-  <img alig src="https://user-images.githubusercontent.com/64318469/178287047-a60ff43c-ec3c-46c6-b1e8-cef49915f075.gif"  width="204" height="150"/>
-  <img src="https://user-images.githubusercontent.com/64318469/178401890-dae670c8-ee71-4a8f-9059-b43ab0ee640f.gif" width="204" height="150"/>
-  <img src="https://user-images.githubusercontent.com/64318469/178404813-ab85727a-e3c9-4771-a3aa-10c865a775d0.gif" width="204"  height="150"/>
-<img src="https://user-images.githubusercontent.com/64318469/178404309-e3666d86-9cf4-4914-9bac-6396eb902cfa.gif" width="204"  height="150"/>
+  <img alig src="https://user-images.githubusercontent.com/64318469/178287047-a60ff43c-ec3c-46c6-b1e8-cef49915f075.gif"  width="180" height="150"/>
+  <img src="https://user-images.githubusercontent.com/64318469/178401890-dae670c8-ee71-4a8f-9059-b43ab0ee640f.gif" width="180" height="150"/>
+  <img src="https://user-images.githubusercontent.com/64318469/178404813-ab85727a-e3c9-4771-a3aa-10c865a775d0.gif" width="180"  height="150"/>
+<img src="https://user-images.githubusercontent.com/64318469/178404309-e3666d86-9cf4-4914-9bac-6396eb902cfa.gif" width="180"  height="150"/>
 </p>
 
 ### ♟ **Move a <!-- BEGIN TURN -->black<!-- END TURN --> piece.**
@@ -26,6 +26,7 @@
 |   | **A** | **B** | **C** | **D** | **E** | **F** | **G** | **H** |   |
 <!-- END CHESS BOARD -->
 
+<a href="#"><img align="left" src="https://user-images.githubusercontent.com/64318469/178405927-b44d01f0-e772-4edc-9ca9-f4a5ead6f2d9.gif" width="450" height="450" /></a>
 
 <!-- BEGIN MOVES LIST -->
 |  FROM  | TO  |
@@ -41,6 +42,7 @@
 | **G8** | [F6](https://github.com/Smartmayukh/chess/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+G8+to+F6), [H6](https://github.com/Smartmayukh/chess/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+G8+to+H6) |
 | **H7** | [H5](https://github.com/Smartmayukh/chess/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+H7+to+H5), [H6](https://github.com/Smartmayukh/chess/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+H7+to+H6) |
 <!-- END MOVES LIST -->
+
 
 
 
