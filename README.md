@@ -42,29 +42,3 @@ Move a <!-- BEGIN TURN -->black<!-- END TURN --> piece.
 
 
 
-
-<details>
-  <summary>Last 5 moves made in this game</summary>
-<!-- BEGIN LAST MOVES -->
-
-| Move | Author |
-| :--: | :----- |
-| `B2` to `B3` | [ @Smartmayukh](https://github.com/Smartmayukh) |
-| `Start game` | [ @Smartmayukh](https://github.com/Smartmayukh) |
-
-<!-- END LAST MOVES -->
-</details>
-
-<details>
-  <summary>Top 10 most moves across all games</summary>
-<!-- BEGIN TOP MOVES -->
-
-| Total moves |  User  |
-| :---------: | :----- |
-| 1 | [@Smartmayukh](https://github.com/Smartmayukh) |
-
-<!-- END TOP MOVES -->
-</details>
-
----
-
